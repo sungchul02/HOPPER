@@ -1,5 +1,7 @@
 # HOPPER: Context Compression for Small Language Models
 
+> **Status:** paper in preparation. Code will be released after the review (공개 예정).
+
 HOPPER (Header-preserving One-Pass Pseudo-relevance Extraction for small Readers) is a training-free sentence extraction method that compresses long retrieved documents for small language models (1B–4B parameters) in multi-hop question answering. It ranks sentences with BM25, expands the query once with capitalized and title words of the top-ranked sentences, and keeps the document title line of every selected sentence within the token budget. No language model or trained model is run at compression time.
 
 This repository accompanies the paper "HOPPER: Context Compression for Improving the Accuracy of Small Language Models in Long Multi-Hop Question Answering", which is in preparation for submission to IJIBC (International Journal of Internet, Broadcasting and Communication).
