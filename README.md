@@ -8,7 +8,7 @@ This repository accompanies the paper "HOPPER: Context Compression for Improving
 
 **The code will be added with the publication.** It will include the compression code, prompts, evaluation question IDs, model digests and run records.
 
-Follow-up: [HOPPER-G](https://github.com/sungchul02/HOPPER-G), which builds the context from title-mention paths between documents.
+Follow-up: [HOPPER-G](https://github.com/sungchul02/HOPPER-G) (in progress).
 
 ---
 
